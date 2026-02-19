@@ -1,0 +1,2 @@
+LINUX - "test": "node --env-file=.env node_modules/.bin/jest --runInBand",
+WIN - "test": "node --env-file=.env --experimental-modules node_modules/jest/bin/jest.js --runInBand",
